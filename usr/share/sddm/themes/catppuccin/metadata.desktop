@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Xero-Catppuccin
+Description=Xero-Catppuccin sddm theme
+Author=DarkXero
+Copyright=(c) 2023, DarkXero
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://xerolinux.xyz
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=info@techxero.com
+Theme-Id=Xero-Catppuccin
+Theme-API=2.12
