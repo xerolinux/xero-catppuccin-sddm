@@ -20,4 +20,5 @@ package() {
 	rm ${pkgdir}${_destname1}/creds.sh
 	rm ${pkgdir}${_destname1}/push.sh
 	rm ${pkgdir}${_destname1}/PKGBUILD
+	rm ${pkgdir}${_destname1}/LICENSE
 }
